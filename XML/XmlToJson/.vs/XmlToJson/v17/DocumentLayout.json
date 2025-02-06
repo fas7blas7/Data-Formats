@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\XML\\XmlToJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8C2F1-B544-4C52-B815-0A5DFFAD691B}|XmlToJson.csproj|d:\\backend homework projects\\01.data-formats-json-yaml-xml\\xml\\xmltojson\\datasets\\vehicles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AC8C2F1-B544-4C52-B815-0A5DFFAD691B}|XmlToJson.csproj|solutionrelative:datasets\\vehicles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8C2F1-B544-4C52-B815-0A5DFFAD691B}|XmlToJson.csproj|d:\\backend homework projects\\01.data-formats-json-yaml-xml\\xml\\xmltojson\\datasets\\devices.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AC8C2F1-B544-4C52-B815-0A5DFFAD691B}|XmlToJson.csproj|solutionrelative:datasets\\devices.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicles.xml",
+              "DocumentMoniker": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\XML\\XmlToJson\\Datasets\\Vehicles.xml",
+              "RelativeDocumentMoniker": "Datasets\\Vehicles.xml",
+              "ToolTip": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\XML\\XmlToJson\\Datasets\\Vehicles.xml",
+              "RelativeToolTip": "Datasets\\Vehicles.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-13T18:03:19.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Devices.xml",
+              "DocumentMoniker": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\XML\\XmlToJson\\Datasets\\Devices.xml",
+              "RelativeDocumentMoniker": "Datasets\\Devices.xml",
+              "ToolTip": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\XML\\XmlToJson\\Datasets\\Devices.xml",
+              "RelativeToolTip": "Datasets\\Devices.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-13T17:57:52.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
