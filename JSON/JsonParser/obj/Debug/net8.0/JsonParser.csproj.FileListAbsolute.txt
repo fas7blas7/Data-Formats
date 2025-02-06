@@ -1,0 +1,16 @@
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\bin\Debug\net8.0\JsonParser.exe
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\bin\Debug\net8.0\JsonParser.dll
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\JsonParser.dll
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+D:\BACKEND HOMEWORK PROJECTS\01.Data-Formats-JSON-YAML-XML\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll
