@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\YAML\\YamlToHtml\\YamlToHtml.csproj": {}
+  },
+  "projects": {
+    "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\YAML\\YamlToHtml\\YamlToHtml.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\YAML\\YamlToHtml\\YamlToHtml.csproj",
+        "projectName": "YamlToHtml",
+        "projectPath": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\YAML\\YamlToHtml\\YamlToHtml.csproj",
+        "packagesPath": "C:\\Users\\skyli\\.nuget\\packages\\",
+        "outputPath": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\YAML\\YamlToHtml\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skyli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Globalization": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[13.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

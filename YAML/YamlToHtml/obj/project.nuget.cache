@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NuPwYJOxMxc=",
+  "success": true,
+  "projectFilePath": "D:\\BACKEND HOMEWORK PROJECTS\\01.Data-Formats-JSON-YAML-XML\\YAML\\YamlToHtml\\YamlToHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skyli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\skyli\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\skyli\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\skyli\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\skyli\\.nuget\\packages\\yamldotnet\\13.7.1\\yamldotnet.13.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
